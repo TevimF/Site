@@ -127,7 +127,7 @@ main section h2 {
     color: black;
 }
 
-main mark {
+main strong {
     background-color: #B27CF3;   
     color: rgb(0, 0, 0);
 }

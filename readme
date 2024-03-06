@@ -1,0 +1,48 @@
+anotação de formataçoes em html.
+ 
+essa é uma hierarquia de títulos. E isso não está diretamente relacionado ao tamanho do texto, mas sim a importância do título.
+<h1> é um header de nível 1 
+<h2> é um header de nível 2 e assim por diante.
+<p> é um parágrafo
+<br> é uma quebra de linha
+
+para envelopar um texto, usamos ctrl + shift + p e digitamos "wrap with abbreviation" e escolhemos a tag que queremos usar.
+
+diferença entre semantica e estilização:
+
+<b> deixara apenas em negrito. (isso é estilização)
+<strong> alem de deixar em negrito da um sentido pra frase dizendo que ela está em negrito porque é forte. (isso é semantica)
+<i> deixa em itálico. (isso é estilização)
+<em> ênfase deixando também em itálico. (isso é semantica)
+<mark> destaca o texto com uma cor de fundo.  
+<del> riscado. (semantica)
+<s> riscado. (estilização)
+<ins> sublinhado. (semantica)
+<u> sublinhado. (estilização)
+<q> deixa o texto entre aspas. (semantica, estilização seria colcoar as aspas manualmente)
+<blockquote> deixa o texto em bloco. 
+<abbr title=""> deixa o texto com uma borda pontilhada e quando passamos o mouse em cima aparece o significado da abreviação.
+<cite> deixa o texto em itálico e com uma fonte menor. (representa uma citação)
+para inserir simbolos dedicados como '<' '>' e "&" usamos "&lt;" "&gt;" e "&amp;" respectivamente.
+    
+codigos e matematiques:
+
+<sub> deixa o texto em subscrito.
+<sup> deixa o texto em sobrescrito.
+<pre> deixa o texto em uma fonte monoespaçada e com quebra de linha. (representa um texto pré formatado)
+<code> deixa o texto em uma fonte monoespaçada.(cada letra tem o mesmo tamanho)
+<kbd> deixa o texto em uma fonte monoespaçada e com um fundo cinza. (representa um botão do teclado)
+<var> deixa o texto em itálico e com uma fonte monoespaçada. (representa uma variável)
+
+listas:
+<ol type=""> lista ordenada (type é o tipo de lista, pode ser 1, a, A, i, I)
+    <li> item da lista
+</ol>
+<ul> lista não ordenada (type é o tipo de lista, pode ser circle, square, disc)
+    <li> item da lista
+</ul>
+type é o tipo de lista, e start é o número que a lista começa.
+<dl> lista de definição
+    <dt> termo
+    <dd> definição
+</dl>
