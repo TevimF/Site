@@ -46,3 +46,16 @@ type é o tipo de lista, e start é o número que a lista começa.
     <dt> termo
     <dd> definição
 </dl>
+
+links externos:
+<a href=""> hiperlink (a vem de âncora)
+target="_blank" atributos da tag <a> que diz para abri o link na aba em branco
+target="_self" abre o link na propria página
+href é um atributo essencial da tag <a> e referencia a URL
+atributo rel de <a>:
+rel="external" diz que é uma página externa
+rel="next" diz que a é a próxima página
+rel="previous" diz que é a página anterior
+rel="nofollow" diz que o link não tem o seu aval, usado para patrocínios
+atributos para dowload:
+<a href="" dowload"endereço do arquivo" type"tipo do arquivo(zip, pdf etc)">
