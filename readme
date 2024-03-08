@@ -58,4 +58,29 @@ rel="next" diz que a é a próxima página
 rel="previous" diz que é a página anterior
 rel="nofollow" diz que o link não tem o seu aval, usado para patrocínios
 atributos para dowload:
-<a href="" dowload"endereço do arquivo" type"tipo do arquivo(zip, pdf etc)">
+<a href="endereço_do_arquivo" dowload"nome_do_arquivo" type"tipo do arquivo(zip, pdf etc)">
+
+midia:
+<picture>
+ <source media="(max_widht: (X) px)" srcset="endereço foto tamanho (X)" type="image/png">
+ <source media="(max_widht: (Y) px)" srcset="endereço foto tamanho (Y)" type="image/png">
+  <img src= "endereço foto padrão.png" alt="imagem flexivel">
+</picture>
+<audio src"endereço" controls autoplay> maneira facil
+ou
+<audio>
+ <source src="endereço_midia.mp3" type="audio/mpeg">
+ <source src="endereço_midia.wav" type="audio/wav">
+</audio>
+atributos tag audio:
+autoplay- tocar de uma vez 
+controls- mostra os controles de reprodução
+loop- loop no audio
+video- instalar handbrake (conversor de video)
+<video src"endereço" controls autoplay> maneira facil
+ou
+<video controls>
+ <source src="endereço" type="video/mp4"
+..
+</video>
+basicamente o source mostra as opções
