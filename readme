@@ -83,4 +83,10 @@ ou
  <source src="endereço" type="video/mp4"
 ..
 </video>
-basicamente o source mostra as opções
+basicamente o source mostra as opções de formato
+importar video do youtube:
+vai no video e clica em compartilhar> incorporar> ele vai montar um codigo html pronto e é só copiar.
+-> cole o codigo html.
+formato mais recomendado (m4v)
+
+
