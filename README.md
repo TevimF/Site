@@ -1,30 +1,29 @@
-## ## Resumo do Site Pessoal
+## ## Personal Website Summary
 
-**Apresentação:**
+**Introduction:**
 
-Este site pessoal é uma vitrine digital para mostrar minhas habilidades e experiências.
+This personal website is your digital storefront to showcase your skills and experiences.
 
-**Conteúdo:**
+**Content:**
 
-* Sobre Mim: Uma breve introdução sobre você e seus objetivos.
-* Projetos e Experiências: Destaque seus projetos, empregos ou participações em cursos.
-* Contato: Forneça informações para que as pessoas possam te encontrar.
+* **About Me:** A brief introduction about yourself and your goals.
+* **Projects and Experiences:** Highlight your projects, jobs, or course participation.
+* **Contact:** Provide information for people to reach you.
 
-**Benefícios:**
+**Benefits:**
 
-* Presença online profissional.
-* Demonstração de habilidades e experiências.
-* Networking facilitado.
-* Portfólio online atraente.
-* Fortalecimento da marca pessoal.
+* Professional online presence.
+* Demonstration of skills and experiences.
+* Facilitate networking.
+* Attractive online portfolio.
+* Strengthen personal brand.
 
-**Tecnologias:**
+**Technologies:**
 
-* Linguagens de programação (HTML, CSS).
+* Programming languages (HTML, CSS).
 * ...
 
-**Hospedagem:**
+**Hosting:**
 
-* Plataforma de hospedagem (pendente)
+* Hosting platform (pending)
 * ...
-
