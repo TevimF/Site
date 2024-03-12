@@ -18,12 +18,6 @@ Este site pessoal é uma vitrine digital para mostrar minhas habilidades e exper
 * Portfólio online atraente.
 * Fortalecimento da marca pessoal.
 
-**Introdução:**
-
-* Título: Site Pessoal - [TevimF]
-* Descrição: Conecte-se com o mundo profissional e mostre suas habilidades.
-* Objetivos: Apresentar suas qualificações, melhores trabalhos e facilitar o contato.
-
 **Tecnologias:**
 
 * Linguagens de programação (HTML, CSS).
