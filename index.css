@@ -6,18 +6,52 @@ body {
 }
 
 /* Navigation */
-ul {
+nav {
     display: flex;
     justify-content: space-between;
+    align-items: flex-end;
+    padding: 20px;
+    background-color: #583785b9;
+    font-weight: bold;
+    font-size:18px;
+}
+nav img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+nav ul {
+    display: flex;
+    justify-content: flex-end;
+    /*espaçamento entre os botões*/
+    gap: 10px;
     /*descolar o texto dos cantos da tela*/
     list-style-type: none;
     align-items: center;
-    padding: 15px;
+    padding: 20px;
     padding-bottom: 0px;
-    background-color: #583785b9;
     /* coloca o texto em negrito */
     font-weight: bold;
     font-size:18px;
+    margin: 10px;
+}
+
+main section {
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: #dbdbdb;
+    /*borda do texto*/
+    border: 2px solid black;
+    /*arredondar a borda do texto*/
+    border-radius: 10%; 
+    /* distancia da borda e do texto */
+    padding: 15px;
+    text-decoration: none;
+    /* lista na horizontal */
+    justify-content: space-between;
+    align-items: center;
+    /* padronizar a distância entre os botões */
+    margin: 10px;
 }
 .selected {
     background-color: #B27CF3;
