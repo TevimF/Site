@@ -22,4 +22,15 @@
     // para imprimir no console é só usar console.log()
     console.log(nome, idade, data_n);
     // data_n ficou azul pois é uma constante
+
+    // para rodar o js, precisamos baixar o nodejs no site nodejs.org
+    // para saber o tipo de uma variavel, usamos typeof
+    console.log(typeof nome);
+    // vai imprimir string
+    // lembrando que o tipo de uma variavel pode mudar pois a tipagem é dinamica
+    // observação!:
+        console.log(typeof 6);
+        // vai imprimir number
+        console.log(typeof "6");
+        // vai imprimir string
     
